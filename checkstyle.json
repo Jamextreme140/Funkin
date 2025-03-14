@@ -208,7 +208,7 @@
     },
     {
       "props": {
-        "character": "  ",
+        "character": "    ",
         "severity": "IGNORE"
       },
       "type": "Indentation"
