@@ -8,7 +8,7 @@ module.exports = {
 	// Indent with 2 spaces.
 	tabs: false,
   useTabs: false,
-  tabWidth: 2,
+  tabWidth: 4,
 
   // Use double quotes.
   singleQuote: false,
